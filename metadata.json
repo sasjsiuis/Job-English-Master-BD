@@ -1,0 +1,11 @@
+{
+  "name": "Job English Master BD",
+  "description": "চাকরি এবং প্রফেশনাল লাইফের জন্য প্রয়োজনীয় ইংলিশ বাক্য শেখার অ্যাপ। বাংলা অর্থ ও উচ্চারণ সহ।",
+  "majorCapabilities": [
+    "Education",
+    "Language Learning"
+  ],
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
